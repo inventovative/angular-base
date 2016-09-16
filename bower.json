@@ -1,0 +1,28 @@
+{
+  "name": "inv_angular_base",
+  "authors": [
+    "Amir Mukhlis Kushairi <mukhliskushairi@gmail.com>"
+  ],
+  "description": "Inventovative Solutions base for AngularJS v1 projects",
+  "main": "",
+  "keywords": [
+    "AngularJS"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.3.1",
+    "angular-animate": "^1.5.8",
+    "angular-bootstrap": "^2.1.3"
+  }
+}

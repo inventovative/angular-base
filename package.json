@@ -1,0 +1,13 @@
+{
+  "name": "inv_angular_base",
+  "version": "1.0.0",
+  "description": "Inventovative Solutions base for AngularJS v1 projects",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "AngularJS"
+  ],
+  "author": "Amir Mukhlis Kushairi <mukhliskushairi@gmail.com>",
+  "license": "ISC"
+}
